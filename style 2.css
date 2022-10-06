@@ -1,0 +1,22 @@
+.con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(237, 237, 60);
+}
+.card1{
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    width: 45vh;
+    height: 30vh; 
+    border: 2px solid black;
+    margin: 10px;
+}
+.card2{
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    width: 45vh;
+    height: 30vh; 
+    border: 2px solid black;
+    margin: 10px;
+}
